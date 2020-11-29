@@ -18,6 +18,5 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "linear-gradient(90deg, rgba(108,35,186,1) 36%, rgba(182,0,255,1) 100%)"
-  
+  "theme_color": "#b600ff"
 }

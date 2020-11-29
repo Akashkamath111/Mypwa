@@ -1,1 +1,23 @@
-{"name":"More2Knew","short_name":"More2Knew","icons":[{"src":"https://1.bp.blogspot.com/-odN8FgsGjQ0/X8JzIo0aFXI/AAAAAAAAASY/G6arF7bTGEUiXe64gc5bN4DrpGJcAx1jgCLcBGAsYHQ/s192/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"https://1.bp.blogspot.com/-fc0Au1OVdnU/X8JzIw-awLI/AAAAAAAAASc/R-Ly9AD2AwUYdiZFDGILucFG9B5EiC-WwCLcBGAsYHQ/s320/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}
+{
+  "short_name": "M2K",
+  "name": "More2Knew",
+  "description": "Interested about amazing Historical facts of India? More2Knew provide you with the facts and information about India. Proud To Be Indian!",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-tvpC-_XlIVs/X8MJlxdaVnI/AAAAAAAAATs/2oVPziD35mU7PuQljJqZKGpjCAvIlk2DgCLcBGAsYHQ/s192/More2Knew%2BFavicon%2B-%2BAndroid%2BChrome%2B-%2B192%25C3%2597192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ydi_hkw4Zqc/X8MJaYzueDI/AAAAAAAAATo/VkYeDGpMv8AgIP5Y6n2SiemZC6a3BpNvwCLcBGAsYHQ/s320/More2Knew%2BFavicon%2B-%2BAndroid%2BChrome%2B-%2B512%25C3%2597512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "linear-gradient(90deg, rgba(108,35,186,1) 36%, rgba(182,0,255,1) 100%)"
+  
+}
